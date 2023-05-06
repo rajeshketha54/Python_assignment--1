@@ -1,7 +1,7 @@
 # Python_assignment--1
-num=int(input())                        # number: 9
-num1=0
-num2=1
+num = int(input())                        # number: 9
+num1 = 0
+num2 = 1
 if num < 1:
     print(num1,end=" ")
 elif num >= 1:
