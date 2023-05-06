@@ -1,5 +1,5 @@
 # Python_assignment--1
-number=int(input())                        # number: 9
+num=int(input())                        # number: 9
 num1=0
 num2=1
 if num < 1:
